@@ -1,1 +1,2 @@
 Rings/*.3dm filter=lfs diff=lfs merge=lfs -text
+Wing-Hair-Clip/*.3dm filter=lfs diff=lfs merge=lfs -text
